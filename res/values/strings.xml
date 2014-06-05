@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AZgame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_aide" translatable="false">Aide - Règles du Jeu</string>
+    <string name="aide" translatable="false">"Description:\n\nVous pouvez 'pousser' toutes les lettres du cube de haut en bas ou de gauche à droite.\n\nDeux mêmes lettres se combinent pour se transformer: A sur A devient B.\n\nUn alignement de trois mêmes lettres disparaît du jeu et ajoute des points au score.\n\nLa lettre rouge est la dernière lettre ajoutée dans le jeu."</string>
+
+    <string name="ca_app_pub"  translatable="false">ca-app-pub-1008481061910472/9058760517</string>
+</resources>

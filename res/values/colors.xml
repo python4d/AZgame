@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="almost_white">#FCFCFC</color>
+    <color name="somewhat_gray">#8C8C8C</color>
+    <color name="tabTransparent">#10ffffff</color>
+</resources>
